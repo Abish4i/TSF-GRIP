@@ -1,5 +1,5 @@
 # Internship-Task 1
-First task of internship with The Sparks Foundation i.e GRIP **(Graduate Rotational Internship Program)
+First task of internship with The Sparks Foundation **Graduate Rotational Internship Program (GRIP)
 
 ## Prediction using Supervised ML 
 
@@ -9,7 +9,7 @@ First task of internship with The Sparks Foundation i.e GRIP **(Graduate Rotatio
 
 * Solving this problem with a linear regression model which involves 2 variables. Namely Hours and Scores 
 
-**Dataset : http://bit.ly/w-data
+**http://bit.ly/w-data
 
 ### IBM
 
