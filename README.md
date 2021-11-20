@@ -2,7 +2,7 @@
 ### Internship Tasks for Nov 21 along with instructions and final links
 
 ## Internship-Tasks
-This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP **(Graduate Rotational Internship Program)
+This is one of the tasks given to us in the internship we are doing with The Sparks Foundation __Graduate Rotational Internship Program__
 
 # Task 1
 
@@ -14,7 +14,7 @@ This is one of the tasks given to us in the internship we are doing with The Spa
 
 ● Solving this problem with a linear regression model which involves 2 variables.Namely Hours and Scores 
 
-**http://bit.ly/w-data
+**http://bit.ly/w-data**
 
 ### IBM
 https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/f5c71d08-3cb7-4bce-bbc0-f4a7e43298ad/view?access_token=4ff1e7b464e8f2ca9328e270d0b47254ecef3b4d423ffb18ba2ce6ae44086056
@@ -33,7 +33,7 @@ https://gist.github.com/Abish4i/ae92c4817381516095f1d1909c5d175b
 
 ●  Using K-Means and WCSS for predicting clusters
 
-**Dataset : http://bit.ly/3kXTdox
+__http://bit.ly/3kXTdox__
 
 ### IBM
 
@@ -53,7 +53,7 @@ https://gist.github.com/Abish4i/9551cffe281c35704834cff172399fd6
 
 ● What all business problems you can derive by exploring the  data? 
 
-**https://bit.ly/3i4rbWl
+__https://bit.ly/3i4rbWl__
 
 # Task 4
 
@@ -65,7 +65,7 @@ https://gist.github.com/Abish4i/9551cffe281c35704834cff172399fd6
 
 ● What all security issues and insights you can derive by EDA? 
 
-**https://bit.ly/2TK5Xn5
+__https://bit.ly/2TK5Xn5__
 
 # Task 5
 
@@ -77,7 +77,7 @@ https://gist.github.com/Abish4i/9551cffe281c35704834cff172399fd6
 
 ● Suggest teams or players a company should endorse for its products.
 
-● Dataset:https://bit.ly/34SRn3b
+__https://bit.ly/34SRn3b__
 
 # Task 6
 
@@ -87,7 +87,7 @@ https://gist.github.com/Abish4i/9551cffe281c35704834cff172399fd6
 
 ● The purpose is if we feed any new data to this  classifier, it would be able to predict the right class accordingly. 
 
-**https://bit.ly/3kXTdox
+**https://bit.ly/3kXTdox**
 
 # Task 7
 
@@ -99,7 +99,7 @@ https://gist.github.com/Abish4i/9551cffe281c35704834cff172399fd6
 
 ● Download historical stock prices from finance.yahoo.com
 
-**Download textual (news) data from https://bit.ly/36fFPI6
+** Download textual (news) data from https://bit.ly/36fFPI6 **
 
 # Task 8
 
@@ -114,4 +114,4 @@ https://gist.github.com/Abish4i/9551cffe281c35704834cff172399fd6
 ● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
 
 **Updated .csv file at 
-https://bit.ly/30d2gdi
+https://bit.ly/30d2gdi**
