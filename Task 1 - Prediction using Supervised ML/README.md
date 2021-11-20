@@ -1,7 +1,5 @@
-# Internship-Tasks
+# Internship-Task 1
 First task of internship with The Sparks Foundation i.e GRIP **(Graduate Rotational Internship Program)
-
-#Task 1
 
 ## Prediction using Supervised ML 
 
