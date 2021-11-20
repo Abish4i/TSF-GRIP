@@ -99,7 +99,7 @@ __https://bit.ly/34SRn3b__
 
 ● Download historical stock prices from finance.yahoo.com
 
-** Download textual (news) data from https://bit.ly/36fFPI6 **
+**Download textual (news) data from https://bit.ly/36fFPI6**
 
 # Task 8
 
